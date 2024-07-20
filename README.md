@@ -48,7 +48,7 @@ cd entropykey
 3. Open index.html in your preferred web browser.
 ## Demo
 
-You can try out the live demo of EntropyKey here: [EntropyKey Demo](https://amruthlp12.github.io/EntropyKey/)
+You can try out the live demo of EntropyKey here: [EntropyKey Demo](https://amruthlp12.github.io/EntropyKey/){:target="_blank" rel="noopener"}
 
 
 ## Contributing
